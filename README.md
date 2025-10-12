@@ -23,16 +23,12 @@ It is built in Java using Maven for dependency and build management.
 - Issue book to a member  
 - Return book  
 - View lists of books, members, issued books  
-- Basic validation and error handling  
-
-*(You can expand this list based on what your implementation supports)*
+- Basic validation and error handling
 
 ## Tech Stack
 
 - Java  
-- Maven  
-- (Optional: If using any frameworks or libraries, list them here)  
-- (Optional: database or file-based persistence—if applicable)  
+- Maven
 
 ## Getting Started
 
